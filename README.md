@@ -1,5 +1,5 @@
 # sGMRES
-Implementation of sketched GMRES for solving nonsingular nonhermitian linear algebraic systems.
+Implementation of sketched GMRES for solving real nonsingular linear algebraic systems.
 
 # Reference:
 Yuji Nakatsukasa and Joel A. Tropp. “Fast & Accurate Randomized Algorithms for Linear
